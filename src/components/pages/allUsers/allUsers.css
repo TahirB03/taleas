@@ -1,0 +1,39 @@
+.users-container{
+    padding: 0 20%;
+}
+.all-users{
+    width: 1300px;
+    display: flex;
+    flex-direction: column;
+}
+.description-wrapper{
+    display: flex;
+    width: 100%;
+    padding: 10px;
+    
+}
+.description{
+    display: inline-block;
+    flex: 0 0 20%;
+    font-size: 32px;
+}
+.user{
+    display: flex;
+    width: 100%;
+    padding: 10px;
+}
+.user-description{
+    display: inline-block;
+    flex: 0 0 20%;
+    font-size: 24px;
+    font-weight: 400;
+}
+.text-header{
+    margin: 20px 0;
+}
+.buttons{
+    flex: 0 0 18%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

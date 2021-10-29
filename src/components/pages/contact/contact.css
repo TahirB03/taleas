@@ -1,0 +1,11 @@
+.email-input{
+    width: 300px;
+    margin-top: 5px;
+}
+.contact{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
